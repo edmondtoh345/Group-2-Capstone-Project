@@ -1,0 +1,17 @@
+<mat-toolbar color="primary">
+    <span>Code Crusaders</span>
+    <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon" title="Home" routerLink="/">
+        <mat-icon>home</mat-icon>
+      </button>
+      <button mat-icon-button class="example-icon favorite-icon" aria-label="Example icon-button with heart icon" title="Register" routerLink="/register" *ngIf="!isLoggedIn">
+        <mat-icon>person_add</mat-icon>
+      </button>
+    <span class="example-spacer"></span>
+        <span>Welcome {{username}}!</span>
+    <button mat-icon-button class="example-icon" aria-label="Example icon-button with share icon" title="Login" routerLink="/login" *ngIf="!isLoggedIn">
+        <mat-icon>person_outline</mat-icon>
+    </button>
+    <button mat-icon-button class="example-icon" aria-label="Example icon-button with share icon" title="Logout" (click)="onLogout()" *ngIf="isLoggedIn">
+        <mat-icon>person</mat-icon>
+    </button>
+  </mat-toolbar>
