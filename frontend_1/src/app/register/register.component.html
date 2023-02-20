@@ -1,0 +1,60 @@
+<div class="container text-center">
+    <div class="row mt-3">
+      <div class="col"></div>
+      <div class="col-6">
+        
+        <h3>Register</h3>
+        <form [formGroup]="regForm" (ngSubmit)="OnReg()">
+                <mat-form-field class="example-full-width">
+                  <mat-label>First Name</mat-label>
+                  <input matInput placeholder="" formControlName="firstname">
+                </mat-form-field>
+
+                <mat-form-field class="example-full-width">
+                    <mat-label>Last Name</mat-label>
+                    <input matInput placeholder="" formControlName="lastname">
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width">
+                    <mat-label>Email</mat-label>
+                    <input matInput placeholder="" formControlName="email">
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width">
+                    <mat-label>Password</mat-label>
+                    <input matInput placeholder="" formControlName="password">
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width">
+                    <mat-label>Phone Number</mat-label>
+                    <input matInput placeholder="" formControlName="phone">
+                  </mat-form-field>
+            
+            <div>
+              <mat-radio-group aria-label="Select an option">
+                <label for="">Gender* :</label> 
+                <mat-radio-button formControlName="gender" value="male" ngDefaultControl>Male</mat-radio-button>
+                <mat-radio-button formControlName="gender" value="female" ngDefaultControl>Female</mat-radio-button>
+              </mat-radio-group>
+            </div>
+            <div>
+              <mat-form-field appearance="fill" class="example-full-width">
+                <mat-label>Date of Birth</mat-label>
+                <input matInput [matDatepicker]="datepicker" formControlName="dateofbirth">
+                <mat-hint>MM/DD/YYYY</mat-hint>
+                <mat-datepicker-toggle matIconSuffix [for]="datepicker"></mat-datepicker-toggle>
+                <mat-datepicker #datepicker>
+                  <mat-datepicker-actions>
+                    <button mat-button matDatepickerCancel>Cancel</button>
+                    <button mat-raised-button color="primary" matDatepickerApply>Apply</button>
+                  </mat-datepicker-actions>
+                </mat-datepicker>
+              </mat-form-field>
+            </div>
+
+            <button mat-raised-button color="primary">Sign me up!</button>
+        </form>
+      </div>
+      <div class="col"></div>
+    </div>
+  </div>

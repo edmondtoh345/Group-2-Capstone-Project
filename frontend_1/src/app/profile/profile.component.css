@@ -1,0 +1,8 @@
+.example-card {
+    max-width: 400px;
+  }
+
+#profilelist{
+    list-style: none;
+    text-align: left;
+}
