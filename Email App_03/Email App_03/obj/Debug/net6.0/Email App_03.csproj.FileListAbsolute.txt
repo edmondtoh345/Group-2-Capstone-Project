@@ -1,0 +1,35 @@
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\Email App_03.csproj.AssemblyReference.cache
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\Email App_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\Email App_03.AssemblyInfoInputs.cache
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\Email App_03.AssemblyInfo.cs
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\Email App_03.csproj.CoreCompileInputs.cache
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\Email App_03.MvcApplicationPartsAssemblyInfo.cs
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\Email App_03.MvcApplicationPartsAssemblyInfo.cache
+D:\21022023\Email API Test_03\Email App_03\Email App_03\bin\Debug\net6.0\appsettings.Development.json
+D:\21022023\Email API Test_03\Email App_03\Email App_03\bin\Debug\net6.0\appsettings.json
+D:\21022023\Email API Test_03\Email App_03\Email App_03\bin\Debug\net6.0\Email App_03.exe
+D:\21022023\Email API Test_03\Email App_03\Email App_03\bin\Debug\net6.0\Email App_03.deps.json
+D:\21022023\Email API Test_03\Email App_03\Email App_03\bin\Debug\net6.0\Email App_03.runtimeconfig.json
+D:\21022023\Email API Test_03\Email App_03\Email App_03\bin\Debug\net6.0\Email App_03.dll
+D:\21022023\Email API Test_03\Email App_03\Email App_03\bin\Debug\net6.0\Email App_03.pdb
+D:\21022023\Email API Test_03\Email App_03\Email App_03\bin\Debug\net6.0\MailKit.dll
+D:\21022023\Email API Test_03\Email App_03\Email App_03\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\21022023\Email API Test_03\Email App_03\Email App_03\bin\Debug\net6.0\MimeKit.dll
+D:\21022023\Email API Test_03\Email App_03\Email App_03\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\21022023\Email API Test_03\Email App_03\Email App_03\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\21022023\Email API Test_03\Email App_03\Email App_03\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\21022023\Email API Test_03\Email App_03\Email App_03\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\staticwebassets\msbuild.Email App_03.Microsoft.AspNetCore.StaticWebAssets.props
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\staticwebassets\msbuild.build.Email App_03.props
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Email App_03.props
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Email App_03.props
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\staticwebassets.pack.json
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\staticwebassets.build.json
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\staticwebassets.development.json
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\scopedcss\bundle\Email App_03.styles.css
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\Email App_03.csproj.CopyComplete
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\Email App_03.dll
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\refint\Email App_03.dll
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\Email App_03.pdb
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\Email App_03.genruntimeconfig.cache
+D:\21022023\Email API Test_03\Email App_03\Email App_03\obj\Debug\net6.0\ref\Email App_03.dll
